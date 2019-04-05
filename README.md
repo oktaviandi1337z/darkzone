@@ -20,5 +20,6 @@ $ cd ToolsLengkap
 
 $ sh darkzone.sh
 
-username : Rahmad
-password : Jomblo123
+username : xenon
+
+password : xenon
